@@ -1,16 +1,14 @@
-## Hi there 👋
+## Jordan Rice
 
-<!--
-**ricemjordan/ricemjordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Audio engineer and producer in Columbus, OH. I prepare spoken-word audio for ElevenLabs voices and Adobe Speech Enhance, and I mix podcasts, talking-head video, studio vocals, and live audio.
 
-Here are some ideas to get you started:
+**Listen to my work: [Voice audio portfolio](https://ricemjordan.github.io/voice-portfolio/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **DAWs:** Logic Pro, Pro Tools, Ableton Live
+- **Processing:** iZotope, Waves, UAD
+- **Voice and AI:** ElevenLabs, Adobe Speech Enhance
+- **Studio:** Universal Audio Apollo, Neumann TLM 103, Shure SM7B
+
+Production Director at Life City Church since 2019, and co-founder, vocalist, and producer of the band Vitruvian Soul.
+
+ricemjordan@gmail.com

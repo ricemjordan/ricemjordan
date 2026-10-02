@@ -1,6 +1,6 @@
 ## Jordan Rice
 
-Audio engineer and producer in Columbus, OH. I prepare spoken-word audio for ElevenLabs voices and Adobe Speech Enhance, and I mix podcasts, talking-head video, studio vocals, and live audio.
+Audio engineer and producer in Columbus, OH. I mix podcasts, songs, talking-head video, studio vocals, and live audio.
 
 **Listen to my work: [Voice audio portfolio](https://ricemjordan.github.io/voice-portfolio/)**
 

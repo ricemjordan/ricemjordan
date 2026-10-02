@@ -9,6 +9,6 @@ Audio engineer and producer in Columbus, OH. I prepare spoken-word audio for Ele
 - **Voice and AI:** ElevenLabs, Adobe Speech Enhance
 - **Studio:** Universal Audio Apollo, Neumann TLM 103, Shure SM7B
 
-Production Director at Life City Church since 2019, and co-founder, vocalist, and producer of the band Vitruvian Soul.
+Production Director & Podcast Producer at Life City Church since 2019. Co-founder, vocalist, and producer of the band Vitruvian Soul. Producer, Mixing, and Mastering Engineer.
 
 ricemjordan@gmail.com
